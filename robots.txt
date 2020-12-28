@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Disallow: /cookies
+Disallow: /category
+Disallow: /contacto
+Allow: /
+Allow: /sitemap.htm
+Sitemap: http://cursus.cl/sitemap.xml
+
